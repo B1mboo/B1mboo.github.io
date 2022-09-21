@@ -1,0 +1,713 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1166px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Montserrat, sans-serif;
+  margin: 108px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 1127px;
+  grid-template-rows: auto auto auto;
+  margin: 90px auto 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 8px) calc(33.3333% - 8px) calc(33.3333% - 8px);
+  min-height: 1052px;
+  grid-gap: 12px 12px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu1.jpg");
+  background-size: cover, cover;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-3 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu4.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-4 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-9 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-9 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-5 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-10 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-10 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-11 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-5 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu6.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-11 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-6 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-12 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-12 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-13 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-6 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu7.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-13 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-7 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-14 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-14 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-15 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-7 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu8.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-15 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-8 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-16 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-16 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-17 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-8 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu9.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-17 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-9 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-18 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-18 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-19 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-9 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu10.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-19 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-10 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-20 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-20 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-21 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-10 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu11.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-21 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-11 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-22 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-22 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-23 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-11 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-image-12 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("F:/spring%20cakes/images/menu12.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-23 {
+  padding: 0;
+}
+
+.u-section-1 .u-group-12 {
+  width: 279px;
+  min-height: 260px;
+  background-size: auto;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-24 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-24 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-25 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-12 {
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-list-1 {
+    width: 940px;
+    height: auto;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 880px;
+  }
+
+  .u-section-1 .u-image-3 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-4 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-5 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-6 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-7 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-8 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-9 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-10 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-11 {
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-image-12 {
+    background-size: cover, cover;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 1528px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    background-position: 73.87% 50%;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    background-position: 88.18% 50%;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-14 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-16 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-18 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-20 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-22 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-24 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-3 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-4 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-5 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-6 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-7 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-8 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-9 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-10 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-11 {
+    width: 215px;
+  }
+
+  .u-section-1 .u-group-12 {
+    width: 215px;
+  }
+}
